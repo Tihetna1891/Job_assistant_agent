@@ -1,0 +1,10 @@
+/env/
+*.env
+/temp/
+__pycache__/
+*.pyc
+jobs.db
+*.log
+credentials.json
+DAta
+venv
