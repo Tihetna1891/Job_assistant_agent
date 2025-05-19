@@ -6,5 +6,6 @@ __pycache__/
 jobs.db
 *.log
 credentials.json
-DAta
+Data
 venv
+.streamlit
